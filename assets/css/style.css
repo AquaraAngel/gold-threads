@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&display=swap');
+
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(54, 54, 50);
+}
+
+/* .mainInfo{
+    background-color: red;
+    display: flex;
+} */
+
+/* tr:nth-child(even) {
+    background-color: #707070;
+} */
+
+table{
+    border-spacing: 0;
+}
+
+th{
+    border-color: wheat;
+    border-style: none none solid none;
+    padding: .5rem;
+    text-align: left;
+}
+
+th:first-child{
+    padding-right: 5rem;
+}
+
+.mainInfo ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: .2rem;
+}
+
+
