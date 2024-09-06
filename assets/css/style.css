@@ -12,8 +12,20 @@ body {
     /* background-color: rgb(54, 54, 50); */
     margin: 0;
     font-family: "Fauna One", serif;
-    background-image: url("../img/leo_visions-gyIRjKPXupE-unsplash.jpg");
+    /* background-image: url("../img/comm_0004_aqua_ani.mp4"); */
     background-size: cover;
+}
+
+#BGV{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
 }
 
 .mainScreen{
