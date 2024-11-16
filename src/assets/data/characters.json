@@ -1,0 +1,359 @@
+[
+    {
+        "id": 1,
+        "image": "../media/characters/aquara.png",
+        "name": "Aquara",
+        "age": "2300+",
+        "birthday": "February 6th",
+        "species": "core bearer, sovereign",
+        "height": "202 cm",
+        "MBTI": "ENTJ",
+        "personality": "Conniving, careless, sinister, doesn’t really smile, heartless to an extent, doesn’t hesitate to get what they want, ruthless, untrusting, protective, obsessive, wise, self-centered, deceptive, controlling, vindictive",
+        "traits": "White hair strand, chin mole, purple eyes with no light in them, pointed ears",
+        "likes": "Revenge, herbal soup, control, cultivating fear, taking care of the forest, mind manipulation, gathering information, watermelon, quietness , learning, resting in or by the water, animals",
+        "dislikes": "Secrets, red meats, his friend Rowan, lack of control, crabs (one pinched him once and he held a grudge ever since)",
+        "fears": "Forest fires, feeling powerless, losing and/or hurting loved ones, vulnerability",
+        "activities": "Taking care of the forest, getting rid of threats, cultivating new flowers, taking walks, gathering information, manipulating people",
+        "History": "-",
+        "colors": {
+            "color1": {
+                "display": "#433932",
+                "text": "#433932"
+            },
+            "color2": {
+                "display": "#6e4679",
+                "text": "#6e4679"
+            },
+            "color3": {
+                "display": "#ae6899",
+                "text": "#ae6899"
+            },
+            "color4": {
+                "display": "#a23f12",
+                "text": "#a23f12"
+            },
+            "color5": {
+                "display": "#ed7232",
+                "text": "#ed7232"
+            },
+            "color6": {
+                "display": "#fea133",
+                "text": "#fea133"
+            },
+            "color7": {
+                "display": "#ffc33e",
+                "text": "#ffc33e"
+            },
+            "color8": {
+                "display": "#d8d8d8",
+                "text": "#d8d8d8"
+            }
+        }
+    }
+    ,{
+        "id": 2,
+        "image": "../media/characters/CHARACTERNAME.png",
+        "name": "Amatae",
+        "age": "2300+",
+        "birthday": "February 6th",
+        "species": "Core bearer, Sovereign",
+        "height": "198 cm",
+        "MBTI": "ENFP",
+        "personality": "Soft, charismatic, gentle, sweet, thoughtful, slow, oblivious",
+        "traits": "His red eyes, tends to wear a lot of rich garments",
+        "likes": "Humans, ",
+        "dislikes": "-",
+        "fears": "-",
+        "activities": "-",
+        "History": "-",
+        "colors": {
+            "color1": {
+                "display": "",
+                "text": ""
+            },
+            "color2": {
+                "display": "",
+                "text": ""
+            },
+            "color3": {
+                "display": "",
+                "text": ""
+            },
+            "color4": {
+                "display": "",
+                "text": ""
+            },
+            "color5": {
+                "display": "",
+                "text": ""
+            },
+            "color6": {
+                "display": "",
+                "text": ""
+            },
+            "color7": {
+                "display": "",
+                "text": ""
+            },
+            "color8": {
+                "display": "",
+                "text": ""
+            }
+        }
+    }
+    ,{
+        "id": 3,
+        "image": "../media/characters/CHARACTERNAME.png",
+        "name": "Nairi",
+        "age": "2300+",
+        "birthday": "February 6th",
+        "species": "Core bearer, Sovereign",
+        "height": "167 cm",
+        "MBTI": "ISTJ",
+        "personality": "Reserved, straightforward, honest, ruthless, judgemental, hard-working, insecure",
+        "traits": "His bright green eyes, roughly cut hair, green magical markings along his back",
+        "likes": "Working, swimming, avoiding Aquara and Amatae",
+        "dislikes": "Being dragged away from his work",
+        "fears": "Missing deadlines, messing up his work, not being good enough",
+        "activities": "Working",
+        "History": "-",
+        "colors": {
+            "color1": {
+                "display": "",
+                "text": ""
+            },
+            "color2": {
+                "display": "",
+                "text": ""
+            },
+            "color3": {
+                "display": "",
+                "text": ""
+            },
+            "color4": {
+                "display": "",
+                "text": ""
+            },
+            "color5": {
+                "display": "",
+                "text": ""
+            },
+            "color6": {
+                "display": "",
+                "text": ""
+            },
+            "color7": {
+                "display": "",
+                "text": ""
+            },
+            "color8": {
+                "display": "",
+                "text": ""
+            }
+        }
+    }
+    ,{
+        "id": 4,
+        "image": "../media/characters/CHARACTERNAME.png",
+        "name": "Kais Arzel",
+        "age": "250+",
+        "birthday": "January 4th",
+        "species": "Half primordial - half human",
+        "height": "180 cm",
+        "MBTI": "INFJ",
+        "personality": "Wise, mysterious, gentle, elegant, all-knowing, insightful, perfectionist, closed-off, honest, loyal, principled ",
+        "traits": "White eyes, pearl earring in right ear, floral silver ornament, long thick braid, long scars on his neck and shoulders",
+        "likes": "Taking notes, learning, writing, quiet walks, fresh air, the smell of libraries, teaching, snakes",
+        "dislikes": "Sudden changes, sudden and loud noises, pushy people, fire",
+        "fears": "Rowan, sharp items",
+        "activities": "Often found writing, scribe for the nobles, tends to disappear for long periods of time but comes back the same",
+        "History": "-",
+        "colors": {
+            "color1": {
+                "display": "#ede4df",
+                "text": "#ede4df"
+            },
+            "color2": {
+                "display": "#c7b0ac",
+                "text": "#c7b0ac"
+            },
+            "color3": {
+                "display": "#dbdbdb",
+                "text": "#dbdbdb"
+            },
+            "color4": {
+                "display": "#526b7b",
+                "text": "#526b7b"
+            },
+            "color5": {
+                "display": "#27465a",
+                "text": "#27465a"
+            },
+            "color6": {
+                "display": "#395a83",
+                "text": "#395a83"
+            },
+            "color7": {
+                "display": "#b2b3b3",
+                "text": "#b2b3b3"
+            },
+            "color8": {
+                "display": "#eae8e4",
+                "text": "#eae8e4"
+            }
+        }
+    }
+    ,{
+        "id": 5,
+        "image": "../media/characters/CHARACTERNAME.png",
+        "name": "Rowan",
+        "age": "Unknown",
+        "birthday": "April 23rd",
+        "species": "Luminary",
+        "height": "195 cm",
+        "MBTI": "ESTJ",
+        "personality": "Tired, calculating, wise, knowledgeable, deceptive, manipulative, patient, judgemental, focused ",
+        "traits": "Silver lined glasses, eye bags, one orange eye, one black eye, single bang hair strand",
+        "likes": "Control, knowledge, power, secrecy, flashy performances",
+        "dislikes": "Kais, Nuon, animals, adventurers, romance",
+        "fears": "Kais, primordials",
+        "activities": "Keeping track of Aquara, gathering information, laying low",
+        "History": "-",
+        "colors": {
+            "color1": {
+                "display": "#272626",
+                "text": "#272626"
+            },
+            "color2": {
+                "display": "#191919",
+                "text": "#191919"
+            },
+            "color3": {
+                "display": "#bb6021",
+                "text": "#bb6021"
+            },
+            "color4": {
+                "display": "#e18443",
+                "text": "#e18443"
+            },
+            "color5": {
+                "display": "#efe6e2",
+                "text": "#efe6e2"
+            },
+            "color6": {
+                "display": "#dcc6b4",
+                "text": "#dcc6b4"
+            },
+            "color7": {
+                "display": "#807272",
+                "text": "#807272"
+            },
+            "color8": {
+                "display": "#b1b1af",
+                "text": "#b1b1af"
+            }
+        }
+    }
+    ,{
+        "id": 1,
+        "image": "../media/characters/CHARACTERNAME.png",
+        "name": "",
+        "age": "",
+        "birthday": "",
+        "species": "",
+        "height": "",
+        "MBTI": "",
+        "personality": "",
+        "traits": "",
+        "likes": "",
+        "dislikes": "",
+        "fears": "",
+        "activities": "",
+        "History": "",
+        "colors": {
+            "color1": {
+                "display": "",
+                "text": ""
+            },
+            "color2": {
+                "display": "",
+                "text": ""
+            },
+            "color3": {
+                "display": "",
+                "text": ""
+            },
+            "color4": {
+                "display": "",
+                "text": ""
+            },
+            "color5": {
+                "display": "",
+                "text": ""
+            },
+            "color6": {
+                "display": "",
+                "text": ""
+            },
+            "color7": {
+                "display": "",
+                "text": ""
+            },
+            "color8": {
+                "display": "",
+                "text": ""
+            }
+        }
+    }
+    ,{
+        "id": 1,
+        "image": "../media/characters/CHARACTERNAME.png",
+        "name": "",
+        "age": "",
+        "birthday": "",
+        "species": "",
+        "height": "",
+        "MBTI": "",
+        "personality": "",
+        "traits": "",
+        "likes": "",
+        "dislikes": "",
+        "fears": "",
+        "activities": "",
+        "History": "",
+        "colors": {
+            "color1": {
+                "display": "",
+                "text": ""
+            },
+            "color2": {
+                "display": "",
+                "text": ""
+            },
+            "color3": {
+                "display": "",
+                "text": ""
+            },
+            "color4": {
+                "display": "",
+                "text": ""
+            },
+            "color5": {
+                "display": "",
+                "text": ""
+            },
+            "color6": {
+                "display": "",
+                "text": ""
+            },
+            "color7": {
+                "display": "",
+                "text": ""
+            },
+            "color8": {
+                "display": "",
+                "text": ""
+            }
+        }
+    }
+]
