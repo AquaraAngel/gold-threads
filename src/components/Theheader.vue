@@ -1,6 +1,6 @@
 <template>
     <header>
-        <h1>Gold threads</h1>
+        <h1>TITLE</h1>
     </header>
 </template>
 
