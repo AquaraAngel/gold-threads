@@ -1,5 +1,5 @@
 <script setup>
-import TheHeader from './components/Theheader.vue';
+import TheHeader from './components/TheHeader.vue';
 import TheNav from './components/TheNav.vue';
 
 import characterInfo from "./assets/data/characters.json"
