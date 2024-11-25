@@ -13,9 +13,9 @@
     selectedCharacter.value = character;
   }
 
-//   onMounted(() => {
-//   selectedCharacter.value = characters.value[0];
-// });
+  onMounted(() => {
+  selectedCharacter.value = characters.value[0];
+});
 
 </script>
 

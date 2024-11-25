@@ -12,9 +12,9 @@
       <p>{{ character.height }}</p>
       <p>{{ character.MBTI }}</p>
     </div>
-    <div v-else class="characterDetail">
+    <!-- <div v-else class="characterDetail">
       <p>Select a character to see details.</p>
-    </div>
+    </div> -->
 </template>
   
   
