@@ -1,4 +1,3 @@
-
 <script setup>
   import { ref, onMounted } from "vue";
   import CharacterDetail from "@/components/CharacterDetail.vue";
