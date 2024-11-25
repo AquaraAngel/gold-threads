@@ -1,17 +1,16 @@
 <script setup>
-import TheHeader from './components/TheHeader.vue';
-import TheNav from './components/TheNav.vue';
+import TheNav from '@/components/TheNav.vue';
 
-import characterInfo from "./assets/data/characters.json"
+import { RouterView } from "vue-router";
 
-const characters = ref(characterInfo);
 
 </script>
 
 <template>
   <TheNav />
-  <TheHeader />
-  
+  <main>
+    <router-view />
+  </main>
 </template>
 
 

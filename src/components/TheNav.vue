@@ -1,9 +1,18 @@
+<script setup>
+
+import { RouterLink } from "vue-router";
+
+
+</script>
+
 <template>
+    
         <nav>
             <ul>
-                <li><a href="#">World</a></li>
-                <li><a href="#">Characters</a></li>
-                <li><a href="#">Author</a></li>
+                <li><RouterLink to="/">Home</RouterLink></li>
+                <li><RouterLink to="/World">World</RouterLink></li>
+                <li><RouterLink to="/Characters">Characters</RouterLink></li>
+                <li><RouterLink to="/Author">Author</RouterLink></li>
             </ul>
         </nav>
 </template>
