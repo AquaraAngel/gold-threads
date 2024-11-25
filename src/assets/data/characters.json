@@ -16,38 +16,14 @@
         "activities": "Taking care of the forest, getting rid of threats, cultivating new flowers, taking walks, gathering information, manipulating people",
         "History": "-",
         "colors": {
-            "color1": {
-                "display": "#433932",
-                "text": "#433932"
-            },
-            "color2": {
-                "display": "#6e4679",
-                "text": "#6e4679"
-            },
-            "color3": {
-                "display": "#ae6899",
-                "text": "#ae6899"
-            },
-            "color4": {
-                "display": "#a23f12",
-                "text": "#a23f12"
-            },
-            "color5": {
-                "display": "#ed7232",
-                "text": "#ed7232"
-            },
-            "color6": {
-                "display": "#fea133",
-                "text": "#fea133"
-            },
-            "color7": {
-                "display": "#ffc33e",
-                "text": "#ffc33e"
-            },
-            "color8": {
-                "display": "#d8d8d8",
-                "text": "#d8d8d8"
-            }
+            "color1": { "display": "#433932", "text": "#433932"},
+            "color2": { "display": "#6e4679", "text": "#6e4679"},
+            "color3": { "display": "#ae6899", "text": "#ae6899"},
+            "color4": { "display": "#a23f12", "text": "#a23f12"},
+            "color5": { "display": "#ed7232", "text": "#ed7232"},
+            "color6": { "display": "#fea133", "text": "#fea133"},
+            "color7": { "display": "#ffc33e", "text": "#ffc33e"},
+            "color8": { "display": "#d8d8d8", "text": "#d8d8d8"}
         }
     }
     ,{

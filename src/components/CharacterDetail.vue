@@ -12,10 +12,13 @@
       <p>{{ character.height }}</p>
       <p>{{ character.MBTI }}</p>
       <div>
-          <p></p>
-          <div class="hex" :style="{backgroundColor: character.colors.color1.display}"></div>
+        <div v-for="color in character.colors" class="colors">
+          <p>{{ color.display }}</p>
+          <div class="hex" :style="{backgroundColor: color.display}"></div>
+        </div>
       </div>
-    </div>
+  </div>
+  
     <!-- <div v-else class="characterDetail">
       <p>Select a character to see details.</p>
     </div> -->
@@ -28,6 +31,15 @@
     border: 1px solid #ddd;
     padding: 1rem;
     margin-left: 1rem;
+  }
+
+  .hex{
+    width: 50px;
+    height: 50px;
+  }
+
+  .colors{
+    display: flex;
   }
 </style>
   
