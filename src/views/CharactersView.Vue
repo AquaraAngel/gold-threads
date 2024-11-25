@@ -23,11 +23,7 @@
  <template>
   <section>
     <div class="characters">
-      <CharacterCards 
-      v-for="character in characters" 
-      :key="character.id" 
-      :character="character" 
-      @click="selectCharacter(character)"/>
+      <CharacterCards v-for="character in characters" :key="character.id" :character="character" @click="selectCharacter(character)"/>
     </div>
     <div>
       <CharacterDetail :character="selectedCharacter" />
