@@ -43,38 +43,14 @@
         "activities": "-",
         "History": "-",
         "colors": {
-            "color1": {
-                "display": "",
-                "text": ""
-            },
-            "color2": {
-                "display": "",
-                "text": ""
-            },
-            "color3": {
-                "display": "",
-                "text": ""
-            },
-            "color4": {
-                "display": "",
-                "text": ""
-            },
-            "color5": {
-                "display": "",
-                "text": ""
-            },
-            "color6": {
-                "display": "",
-                "text": ""
-            },
-            "color7": {
-                "display": "",
-                "text": ""
-            },
-            "color8": {
-                "display": "",
-                "text": ""
-            }
+            "color1": { "display": "#", "text": "#"},
+            "color2": { "display": "#", "text": "#"},
+            "color3": { "display": "#", "text": "#"},
+            "color4": { "display": "#", "text": "#"},
+            "color5": { "display": "#", "text": "#"},
+            "color6": { "display": "#", "text": "#"},
+            "color7": { "display": "#", "text": "#"},
+            "color8": { "display": "#", "text": "#"}
         }
     }
     ,{
@@ -94,38 +70,14 @@
         "activities": "Working",
         "History": "-",
         "colors": {
-            "color1": {
-                "display": "",
-                "text": ""
-            },
-            "color2": {
-                "display": "",
-                "text": ""
-            },
-            "color3": {
-                "display": "",
-                "text": ""
-            },
-            "color4": {
-                "display": "",
-                "text": ""
-            },
-            "color5": {
-                "display": "",
-                "text": ""
-            },
-            "color6": {
-                "display": "",
-                "text": ""
-            },
-            "color7": {
-                "display": "",
-                "text": ""
-            },
-            "color8": {
-                "display": "",
-                "text": ""
-            }
+            "color1": { "display": "#", "text": "#"},
+            "color2": { "display": "#", "text": "#"},
+            "color3": { "display": "#", "text": "#"},
+            "color4": { "display": "#", "text": "#"},
+            "color5": { "display": "#", "text": "#"},
+            "color6": { "display": "#", "text": "#"},
+            "color7": { "display": "#", "text": "#"},
+            "color8": { "display": "#", "text": "#"}
         }
     }
     ,{
@@ -145,38 +97,14 @@
         "activities": "Often found writing, scribe for the nobles, tends to disappear for long periods of time but comes back the same",
         "History": "-",
         "colors": {
-            "color1": {
-                "display": "#ede4df",
-                "text": "#ede4df"
-            },
-            "color2": {
-                "display": "#c7b0ac",
-                "text": "#c7b0ac"
-            },
-            "color3": {
-                "display": "#dbdbdb",
-                "text": "#dbdbdb"
-            },
-            "color4": {
-                "display": "#526b7b",
-                "text": "#526b7b"
-            },
-            "color5": {
-                "display": "#27465a",
-                "text": "#27465a"
-            },
-            "color6": {
-                "display": "#395a83",
-                "text": "#395a83"
-            },
-            "color7": {
-                "display": "#b2b3b3",
-                "text": "#b2b3b3"
-            },
-            "color8": {
-                "display": "#eae8e4",
-                "text": "#eae8e4"
-            }
+            "color1": { "display": "#", "text": "#"},
+            "color2": { "display": "#", "text": "#"},
+            "color3": { "display": "#", "text": "#"},
+            "color4": { "display": "#", "text": "#"},
+            "color5": { "display": "#", "text": "#"},
+            "color6": { "display": "#", "text": "#"},
+            "color7": { "display": "#", "text": "#"},
+            "color8": { "display": "#", "text": "#"}
         }
     }
     ,{
@@ -196,38 +124,14 @@
         "activities": "Keeping track of Aquara, gathering information, laying low",
         "History": "-",
         "colors": {
-            "color1": {
-                "display": "#272626",
-                "text": "#272626"
-            },
-            "color2": {
-                "display": "#191919",
-                "text": "#191919"
-            },
-            "color3": {
-                "display": "#bb6021",
-                "text": "#bb6021"
-            },
-            "color4": {
-                "display": "#e18443",
-                "text": "#e18443"
-            },
-            "color5": {
-                "display": "#efe6e2",
-                "text": "#efe6e2"
-            },
-            "color6": {
-                "display": "#dcc6b4",
-                "text": "#dcc6b4"
-            },
-            "color7": {
-                "display": "#807272",
-                "text": "#807272"
-            },
-            "color8": {
-                "display": "#b1b1af",
-                "text": "#b1b1af"
-            }
+            "color1": { "display": "#", "text": "#"},
+            "color2": { "display": "#", "text": "#"},
+            "color3": { "display": "#", "text": "#"},
+            "color4": { "display": "#", "text": "#"},
+            "color5": { "display": "#", "text": "#"},
+            "color6": { "display": "#", "text": "#"},
+            "color7": { "display": "#", "text": "#"},
+            "color8": { "display": "#", "text": "#"}
         }
     }
     ,{
@@ -247,38 +151,14 @@
         "activities": "",
         "History": "",
         "colors": {
-            "color1": {
-                "display": "",
-                "text": ""
-            },
-            "color2": {
-                "display": "",
-                "text": ""
-            },
-            "color3": {
-                "display": "",
-                "text": ""
-            },
-            "color4": {
-                "display": "",
-                "text": ""
-            },
-            "color5": {
-                "display": "",
-                "text": ""
-            },
-            "color6": {
-                "display": "",
-                "text": ""
-            },
-            "color7": {
-                "display": "",
-                "text": ""
-            },
-            "color8": {
-                "display": "",
-                "text": ""
-            }
+            "color1": { "display": "#", "text": "#"},
+            "color2": { "display": "#", "text": "#"},
+            "color3": { "display": "#", "text": "#"},
+            "color4": { "display": "#", "text": "#"},
+            "color5": { "display": "#", "text": "#"},
+            "color6": { "display": "#", "text": "#"},
+            "color7": { "display": "#", "text": "#"},
+            "color8": { "display": "#", "text": "#"}
         }
     }
     ,{
@@ -298,38 +178,14 @@
         "activities": "",
         "History": "",
         "colors": {
-            "color1": {
-                "display": "",
-                "text": ""
-            },
-            "color2": {
-                "display": "",
-                "text": ""
-            },
-            "color3": {
-                "display": "",
-                "text": ""
-            },
-            "color4": {
-                "display": "",
-                "text": ""
-            },
-            "color5": {
-                "display": "",
-                "text": ""
-            },
-            "color6": {
-                "display": "",
-                "text": ""
-            },
-            "color7": {
-                "display": "",
-                "text": ""
-            },
-            "color8": {
-                "display": "",
-                "text": ""
-            }
+            "color1": { "display": "#", "text": "#"},
+            "color2": { "display": "#", "text": "#"},
+            "color3": { "display": "#", "text": "#"},
+            "color4": { "display": "#", "text": "#"},
+            "color5": { "display": "#", "text": "#"},
+            "color6": { "display": "#", "text": "#"},
+            "color7": { "display": "#", "text": "#"},
+            "color8": { "display": "#", "text": "#"}
         }
     }
 ]
