@@ -1,53 +1,43 @@
 <script setup>
 import { ref } from "vue";
+import backgroundImage from "../assets/media/azaleaMap_nameless.png";
 
 const container = ref(null);
+const backgroundPosition = ref({ x: 50, y: 50 });
 
 const handleMouseMove = (e) => {
-  parallaxIt(e, ".slide", -100);
-  parallaxIt(e, "img", -300);
-};
+  const { left, top, width, height } = container.value.getBoundingClientRect();
+  const relX = (e.clientX - left) / width;
+  const relY = (e.clientY - top) / height;
 
-const parallaxIt = (e, target, movement) => {
-  if (!container.value) return;
-
-  const rect = container.value.getBoundingClientRect();
-  const relX = e.pageX - rect.left;
-  const relY = e.pageY - rect.top;
-
-  const elements = container.value.querySelectorAll(target);
-  elements.forEach((el) => {
-    const offsetX = ((relX - rect.width / 2) / rect.width) * movement;
-    const offsetY = ((relY - rect.height / 2) / rect.height) * movement;
-
-    el.style.transform = `translate(${offsetX}px, ${offsetY}px)`;
-  });
+  backgroundPosition.value = {
+    x: 50 + (relX - 0.5) * 120,
+    y: 50 + (relY - 0.5) * 120,
+  };
 };
 </script>
 
 <template>
-  <div id="container" ref="container" @mousemove="handleMouseMove">
-    <div class="slide"></div>
-    <img  src="../assets/media/azaleaMap_nameless.png" alt="Parallax Image"/>
-  </div>
+  <div
+    id="container"
+    ref="container"
+    @mousemove="handleMouseMove"
+    :style="{
+      backgroundPosition: `${backgroundPosition.x}% ${backgroundPosition.y}%`,
+      backgroundSize: '105%',
+      backgroundImage: `url(${backgroundImage})`,
+    }"
+  ></div>
 </template>
 
 <style scoped>
 #container {
   position: relative;
-  width: 98vw;
-  height: 90vh;  
-  overflow: clip;
-}
-.slide {
-  position: absolute;
-}
-img {
-  position: absolute;
-  /* object-position: right center; */
-  object-fit: cover;
-  /* top: -Xpx; */
-  width: 120%;
-  height: 100%;
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  overflow: hidden;
+  transition: background-position 0.1s ease-out;
 }
 </style>
+
