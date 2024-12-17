@@ -41,3 +41,6 @@ const handleMouseMove = (e) => {
 }
 </style>
 
+
+<!-- Evt brug gyroskop til mobil -->
+
