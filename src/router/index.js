@@ -1,6 +1,6 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 import HomeView from '@/views/HomeView.vue'
-import CharactersView from '@/views/CharactersView.vue'
+import CharactersView from '@/views/AllCharactersView.vue'
 import AuthorView from '@/views/AuthorView.vue'
 import WorldView from '@/views/WorldView.vue'
 
