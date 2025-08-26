@@ -1,7 +1,7 @@
 <script setup>
 import { RouterLink } from 'vue-router';
 
-import TheHeader from '@/components/TheHeader.vue';
+import TheHeader from '@/components/Theheader.vue';
 
 
 </script>
